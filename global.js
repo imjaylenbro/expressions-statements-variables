@@ -42,4 +42,6 @@ console.log(5 < 10)
 console.log( 8 > 5)
 
 // 9.) Add parenthesis to the following statement, the result should be 1
-console.log(( 3 * 3) +  1 / 20  /  2 == 1  ); // This should log true
+console.log(( 3 * 3) + ( 1 / 20 )  /  2 == 1  ); 
+
+// This should log true
